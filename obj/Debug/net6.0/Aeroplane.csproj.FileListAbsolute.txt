@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\obj\Debug\net6.0\Aeroplane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\obj\Debug\net6.0\Aeroplane.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\obj\Debug\net6.0\Aeroplane.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\obj\Debug\net6.0\Aeroplane.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\bin\Debug\net6.0\Aeroplane.exe
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\bin\Debug\net6.0\Aeroplane.deps.json
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\bin\Debug\net6.0\Aeroplane.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\bin\Debug\net6.0\Aeroplane.dll
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\bin\Debug\net6.0\Aeroplane.pdb
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\obj\Debug\net6.0\Aeroplane.dll
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\obj\Debug\net6.0\refint\Aeroplane.dll
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\obj\Debug\net6.0\Aeroplane.pdb
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\obj\Debug\net6.0\Aeroplane.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Aeroplane\obj\Debug\net6.0\ref\Aeroplane.dll
